@@ -1,3 +1,12 @@
+# CBAR fork of the countries-list NPM package
+
+To publish this element on Verdaccio, simply:
+* Clone this repository
+* Run `yarn install`
+* Login to the registry (following instructions at https://wiki.tmi.group/Verdaccio#Logging_in)
+* Run `yarn publish`
+
+
 # Countries, Languages & Continents data
 
 [![Monthly Downloads](https://img.shields.io/npm/dm/countries-list.svg)](https://www.npmjs.com/package/countries-list)
